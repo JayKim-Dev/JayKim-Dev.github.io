@@ -95,7 +95,8 @@ analytics:
 author:
   name: 'Jay Kim'
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: 'I am an **amazing** person.'
+  bio: 'Many of life's failures are those who didn't know how close they were to success when they gave up.
+        (Thomas A. Edison)'
   location: 'Seoul, Republic of Korea'
   email:
   links:
